@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Collider
+  - EnemyJet
+  - GameManager
+  - Vehicle
+  - Drone
+  - Ground
+  - ShopUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - EnemyBoxCollider
+  - PlayerBullet
+  - EnemyBullet
+  - Player
+  - Enemy
+  - PlayerCollider
+  - BoundsCollider
+  - ClusterBomb
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3925114771
+    locked: 0
+  - name: GameObject
+    uniqueID: 47771083
+    locked: 0
+  - name: Effects
+    uniqueID: 303801985
+    locked: 0
